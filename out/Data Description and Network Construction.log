@@ -1,0 +1,1563 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.11.16)  10 OCT 2021 11:29
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"Data Description and Network Construction.tex"
+(./Data Description and Network Construction.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06>
+./Data Description and Network Construction.tex:4: Undefined control sequence.
+l.4 \part
+         {数据介绍与动态网络构建}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./Data Description and Network Construction.tex:4: Package inputenc Error: Unic
+ode character 数 (U+6570)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 \part{数
+             据介绍与动态网络构建}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:4: Package inputenc Error: Unic
+ode character 据 (U+636E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 \part{数据
+                介绍与动态网络构建}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:4: Package inputenc Error: Unic
+ode character 介 (U+4ECB)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 \part{数据介
+                   绍与动态网络构建}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:4: Package inputenc Error: Unic
+ode character 绍 (U+7ECD)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 \part{数据介绍
+                      与动态网络构建}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:4: Package inputenc Error: Unic
+ode character 与 (U+4E0E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 \part{数据介绍与
+                         动态网络构建}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:4: Package inputenc Error: Unic
+ode character 动 (U+52A8)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 \part{数据介绍与动
+                            态网络构建}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:4: Package inputenc Error: Unic
+ode character 态 (U+6001)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 \part{数据介绍与动态
+                               网络构建}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:4: Package inputenc Error: Unic
+ode character 网 (U+7F51)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 \part{数据介绍与动态网
+                                  络构建}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:4: Package inputenc Error: Unic
+ode character 络 (U+7EDC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 \part{数据介绍与动态网络
+                                     构建}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:4: Package inputenc Error: Unic
+ode character 构 (U+6784)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 \part{数据介绍与动态网络构
+                                        建}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:4: Package inputenc Error: Unic
+ode character 建 (U+5EFA)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 \part{数据介绍与动态网络构建
+                                           }
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+./Data Description and Network Construction.tex:5: Undefined control sequence.
+l.5     \chapter
+                {数据介绍}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./Data Description and Network Construction.tex:5: Package inputenc Error: Unic
+ode character 数 (U+6570)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5     \chapter{数
+                    据介绍}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:5: Package inputenc Error: Unic
+ode character 据 (U+636E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5     \chapter{数据
+                       介绍}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:5: Package inputenc Error: Unic
+ode character 介 (U+4ECB)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5     \chapter{数据介
+                          绍}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:5: Package inputenc Error: Unic
+ode character 绍 (U+7ECD)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5     \chapter{数据介绍
+                             }
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+./Data Description and Network Construction.tex:6: Undefined control sequence.
+l.6         \section
+                    {Gowalla Data}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./Data Description and Network Construction.tex:6: LaTeX Error: Missing \begin{
+document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6         \section{G
+                      owalla Data}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no G in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+./Data Description and Network Construction.tex:7: Undefined control sequence.
+l.7         \section
+                    {Foursquare\_small Data}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no F in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no q in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+
+./Data Description and Network Construction.tex:8: Package inputenc Error: Unic
+ode character 该 (U+8BE5)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8         该
+               数据集包括2012年4月12日至2013年2月16日从Foursqua...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:8: Package inputenc Error: Unic
+ode character 数 (U+6570)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8         该数
+                  据集包括2012年4月12日至2013年2月16日从Foursqua...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:8: Package inputenc Error: Unic
+ode character 据 (U+636E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8         该数据
+                     集包括2012年4月12日至2013年2月16日从Foursqua...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:8: Package inputenc Error: Unic
+ode character 集 (U+96C6)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8         该数据集
+                        包括2012年4月12日至2013年2月16日从Foursqua...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:8: Package inputenc Error: Unic
+ode character 包 (U+5305)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8         该数据集包
+                           括2012年4月12日至2013年2月16日从Foursqua...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:8: Package inputenc Error: Unic
+ode character 括 (U+62EC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8         该数据集包括
+                              2012年4月12日至2013年2月16日从Foursqua...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+
+./Data Description and Network Construction.tex:8: Package inputenc Error: Unic
+ode character 年 (U+5E74)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8         该数据集包括2012年
+                                     4月12日至2013年2月16日从Foursqua...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no 4 in font nullfont!
+
+./Data Description and Network Construction.tex:8: Package inputenc Error: Unic
+ode character 月 (U+6708)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8         该数据集包括2012年4月
+                                         12日至2013年2月16日从Foursqua...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+
+./Data Description and Network Construction.tex:8: Package inputenc Error: Unic
+ode character 日 (U+65E5)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8         该数据集包括2012年4月12日
+                                              至2013年2月16日从Foursqua...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:8: Package inputenc Error: Unic
+ode character 至 (U+81F3)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8         该数据集包括2012年4月12日至
+                                                 2013年2月16日从Foursqua...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+
+./Data Description and Network Construction.tex:8: Package inputenc Error: Unic
+ode character 年 (U+5E74)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...��数据集包括2012年4月12日至2013年
+                                                  2月16日从Foursquare收�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no 2 in font nullfont!
+
+./Data Description and Network Construction.tex:8: Package inputenc Error: Unic
+ode character 月 (U+6708)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...�据集包括2012年4月12日至2013年2月
+                                                  16日从Foursquare收集�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+
+./Data Description and Network Construction.tex:8: Package inputenc Error: Unic
+ode character 日 (U+65E5)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...��包括2012年4月12日至2013年2月16日
+                                                  从Foursquare收集的纽�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:8: Package inputenc Error: Unic
+ode character 从 (U+4ECE)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...��括2012年4月12日至2013年2月16日从
+                                                  Foursquare收集的纽约�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no F in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no q in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+
+./Data Description and Network Construction.tex:8: Package inputenc Error: Unic
+ode character 收 (U+6536)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...月12日至2013年2月16日从Foursquare收
+                                                  集的纽约市和东京�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:8: Package inputenc Error: Unic
+ode character 集 (U+96C6)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...12日至2013年2月16日从Foursquare收集
+                                                  的纽约市和东京的�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:8: Package inputenc Error: Unic
+ode character 的 (U+7684)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...��至2013年2月16日从Foursquare收集的
+                                                  纽约市和东京的长�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:8: Package inputenc Error: Unic
+ode character 纽 (U+7EBD)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...��2013年2月16日从Foursquare收集的纽
+                                                  约市和东京的长期�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:8: Package inputenc Error: Unic
+ode character 约 (U+7EA6)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...013年2月16日从Foursquare收集的纽约
+                                                  市和东京的长期（�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:8: Package inputenc Error: Unic
+ode character 市 (U+5E02)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...年2月16日从Foursquare收集的纽约市
+                                                  和东京的长期（约10...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:8: Package inputenc Error: Unic
+ode character 和 (U+548C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...2月16日从Foursquare收集的纽约市和
+                                                  东京的长期（约10个...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:8: Package inputenc Error: Unic
+ode character 东 (U+4E1C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...�16日从Foursquare收集的纽约市和东
+                                                  京的长期（约10个月...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:8: Package inputenc Error: Unic
+ode character 京 (U+4EAC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...日从Foursquare收集的纽约市和东京
+                                                  的长期（约10个月）...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:8: Package inputenc Error: Unic
+ode character 的 (U+7684)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...从Foursquare收集的纽约市和东京的
+                                                  长期（约10个月）入...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:8: Package inputenc Error: Unic
+ode character 长 (U+957F)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...Foursquare收集的纽约市和东京的长
+                                                  期（约10个月）入住...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:8: Package inputenc Error: Unic
+ode character 期 (U+671F)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...rsquare收集的纽约市和东京的长期
+                                                  （约10个月）入住数...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:8: Package inputenc Error: Unic
+ode character （ (U+FF08)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...uare收集的纽约市和东京的长期（
+                                                  约10个月）入住数据。
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:8: Package inputenc Error: Unic
+ode character 约 (U+7EA6)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...e收集的纽约市和东京的长期（约
+                                                  10个月）入住数据。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+
+./Data Description and Network Construction.tex:8: Package inputenc Error: Unic
+ode character 个 (U+4E2A)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...��的纽约市和东京的长期（约10个
+                                                  月）入住数据。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:8: Package inputenc Error: Unic
+ode character 月 (U+6708)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...��纽约市和东京的长期（约10个月
+                                                  ）入住数据。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:8: Package inputenc Error: Unic
+ode character ） (U+FF09)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...��约市和东京的长期（约10个月）
+                                                  入住数据。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:8: Package inputenc Error: Unic
+ode character 入 (U+5165)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...��市和东京的长期（约10个月）入
+                                                  住数据。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:8: Package inputenc Error: Unic
+ode character 住 (U+4F4F)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...��和东京的长期（约10个月）入住
+                                                  数据。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:8: Package inputenc Error: Unic
+ode character 数 (U+6570)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...��东京的长期（约10个月）入住数
+                                                  据。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:8: Package inputenc Error: Unic
+ode character 据 (U+636E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...��京的长期（约10个月）入住数据
+                                                  。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:8: Package inputenc Error: Unic
+ode character 。 (U+3002)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...��的长期（约10个月）入住数据。
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:9: Package inputenc Error: Unic
+ode character 其 (U+5176)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9             其
+                   中文件名为dataset\_TSMC2014\_NYC.txt是纽约市的�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:9: Package inputenc Error: Unic
+ode character 中 (U+4E2D)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9             其中
+                      文件名为dataset\_TSMC2014\_NYC.txt是纽约市的�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:9: Package inputenc Error: Unic
+ode character 文 (U+6587)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9             其中文
+                         件名为dataset\_TSMC2014\_NYC.txt是纽约市的�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:9: Package inputenc Error: Unic
+ode character 件 (U+4EF6)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9             其中文件
+                            名为dataset\_TSMC2014\_NYC.txt是纽约市的�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:9: Package inputenc Error: Unic
+ode character 名 (U+540D)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9             其中文件名
+                               为dataset\_TSMC2014\_NYC.txt是纽约市的�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:9: Package inputenc Error: Unic
+ode character 为 (U+4E3A)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9             其中文件名为
+                                  dataset\_TSMC2014\_NYC.txt是纽约市的�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no Y in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no t in font nullfont!
+
+./Data Description and Network Construction.tex:9: Package inputenc Error: Unic
+ode character 是 (U+662F)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 ...��文件名为dataset\_TSMC2014\_NYC.txt是
+                                                  纽约市的签入数据�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:9: Package inputenc Error: Unic
+ode character 纽 (U+7EBD)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 ...��件名为dataset\_TSMC2014\_NYC.txt是纽
+                                                  约市的签入数据，�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:9: Package inputenc Error: Unic
+ode character 约 (U+7EA6)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 ...��名为dataset\_TSMC2014\_NYC.txt是纽约
+                                                  市的签入数据，一�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:9: Package inputenc Error: Unic
+ode character 市 (U+5E02)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 ...��为dataset\_TSMC2014\_NYC.txt是纽约市
+                                                  的签入数据，一共22...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:9: Package inputenc Error: Unic
+ode character 的 (U+7684)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 ...��dataset\_TSMC2014\_NYC.txt是纽约市的
+                                                  签入数据，一共22742...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:9: Package inputenc Error: Unic
+ode character 签 (U+7B7E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 ...ataset\_TSMC2014\_NYC.txt是纽约市的签
+                                                  入数据，一共227428�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:9: Package inputenc Error: Unic
+ode character 入 (U+5165)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 ...set\_TSMC2014\_NYC.txt是纽约市的签入
+                                                  数据，一共227428行，
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:9: Package inputenc Error: Unic
+ode character 数 (U+6570)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 ...\_TSMC2014\_NYC.txt是纽约市的签入数
+                                                  据，一共227428行，
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:9: Package inputenc Error: Unic
+ode character 据 (U+636E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 ...SMC2014\_NYC.txt是纽约市的签入数据
+                                                  ，一共227428行，
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:9: Package inputenc Error: Unic
+ode character ， (U+FF0C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 ...2014\_NYC.txt是纽约市的签入数据，
+                                                  一共227428行，
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:9: Package inputenc Error: Unic
+ode character 一 (U+4E00)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 ...4\_NYC.txt是纽约市的签入数据，一
+                                                  共227428行，
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:9: Package inputenc Error: Unic
+ode character 共 (U+5171)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 ...NYC.txt是纽约市的签入数据，一共
+                                                  227428行，
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+
+./Data Description and Network Construction.tex:9: Package inputenc Error: Unic
+ode character 行 (U+884C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 ...�纽约市的签入数据，一共227428行
+                                                  ，
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:9: Package inputenc Error: Unic
+ode character ， (U+FF0C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 ...�约市的签入数据，一共227428行，
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:10: Package inputenc Error: Uni
+code character 文 (U+6587)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10             文
+                    件名为dataset\_TSMC2014\_TKY.txt是东京的签入数...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:10: Package inputenc Error: Uni
+code character 件 (U+4EF6)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10             文件
+                       名为dataset\_TSMC2014\_TKY.txt是东京的签入数...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:10: Package inputenc Error: Uni
+code character 名 (U+540D)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10             文件名
+                          为dataset\_TSMC2014\_TKY.txt是东京的签入数...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:10: Package inputenc Error: Uni
+code character 为 (U+4E3A)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10             文件名为
+                             dataset\_TSMC2014\_TKY.txt是东京的签入数...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no K in font nullfont!
+Missing character: There is no Y in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no t in font nullfont!
+
+./Data Description and Network Construction.tex:10: Package inputenc Error: Uni
+code character 是 (U+662F)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ... 文件名为dataset\_TSMC2014\_TKY.txt是
+                                                  东京的签入数据，�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:10: Package inputenc Error: Uni
+code character 东 (U+4E1C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...�件名为dataset\_TSMC2014\_TKY.txt是东
+                                                  京的签入数据，一�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:10: Package inputenc Error: Uni
+code character 京 (U+4EAC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...�名为dataset\_TSMC2014\_TKY.txt是东京
+                                                  的签入数据，一共57...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:10: Package inputenc Error: Uni
+code character 的 (U+7684)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...�为dataset\_TSMC2014\_TKY.txt是东京的
+                                                  签入数据，一共57370...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:10: Package inputenc Error: Uni
+code character 签 (U+7B7E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...�dataset\_TSMC2014\_TKY.txt是东京的签
+                                                  入数据，一共573703�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:10: Package inputenc Error: Uni
+code character 入 (U+5165)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...taset\_TSMC2014\_TKY.txt是东京的签入
+                                                  数据，一共573703行。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:10: Package inputenc Error: Uni
+code character 数 (U+6570)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...et\_TSMC2014\_TKY.txt是东京的签入数
+                                                  据，一共573703行。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:10: Package inputenc Error: Uni
+code character 据 (U+636E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ..._TSMC2014\_TKY.txt是东京的签入数据
+                                                  ，一共573703行。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:10: Package inputenc Error: Uni
+code character ， (U+FF0C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...MC2014\_TKY.txt是东京的签入数据，
+                                                  一共573703行。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:10: Package inputenc Error: Uni
+code character 一 (U+4E00)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...014\_TKY.txt是东京的签入数据，一
+                                                  共573703行。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:10: Package inputenc Error: Uni
+code character 共 (U+5171)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...\_TKY.txt是东京的签入数据，一共
+                                                  573703行。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+
+./Data Description and Network Construction.tex:10: Package inputenc Error: Uni
+code character 行 (U+884C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...是东京的签入数据，一共573703行
+                                                  。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:10: Package inputenc Error: Uni
+code character 。 (U+3002)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...东京的签入数据，一共573703行。
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:11: Package inputenc Error: Uni
+code character 地 (U+5730)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11             地
+                    区偏移量的该地区（纽约市或东京），与UT...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:11: Package inputenc Error: Uni
+code character 区 (U+533A)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11             地区
+                       偏移量的该地区（纽约市或东京），与UT...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:11: Package inputenc Error: Uni
+code character 偏 (U+504F)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11             地区偏
+                          移量的该地区（纽约市或东京），与UT...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:11: Package inputenc Error: Uni
+code character 移 (U+79FB)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11             地区偏移
+                             量的该地区（纽约市或东京），与UT...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:11: Package inputenc Error: Uni
+code character 量 (U+91CF)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11             地区偏移量
+                                的该地区（纽约市或东京），与UT...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:11: Package inputenc Error: Uni
+code character 的 (U+7684)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11             地区偏移量的
+                                   该地区（纽约市或东京），与UT...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./Data Description and Network Construction.tex:11: Package inputenc Error: Uni
+code character 该 (U+8BE5)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11             地区偏移量的该
+                                      地区（纽约市或东京），与UT...
+(That makes 100 errors; please try again.) 
+Here is how much of TeX's memory you used:
+ 72 strings out of 480608
+ 1113 string characters out of 5907535
+ 239604 words of memory out of 5000000
+ 16063 multiletter control sequences out of 15000+600000
+ 532338 words of font info for 24 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 12i,1n,15p,246b,27s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+./Data Description and Network Construction.tex:11:  ==> Fatal error occurred, 
+no output PDF file produced!
